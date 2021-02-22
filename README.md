@@ -1,2 +1,2 @@
 # RCCG-Ark-of-God
-Ark of God Parish Website
+Ark of God Parish
