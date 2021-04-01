@@ -327,7 +327,7 @@ section.dark,
 
 .content {
     padding-right: 25px;
-    margin-bottom: 26px;
+    margin-bottom: 10px;
 }
 
 .sidebar {
@@ -1926,7 +1926,7 @@ Main Menu
 #mainMenu nav>ul>li .dropdown-menu {
     background-position: right bottom;
     background-repeat: no-repeat;
-    min-width: 230px;
+    min-width: 200px;
     top: auto;
     background-color: #ffffff;
     border: 0;
@@ -15626,7 +15626,7 @@ div.icon-box:before {
 }
 
 .icon-box.small>p {
-    margin: 0 0 20px 60px;
+    margin: 0 0 5px 60px;
     line-height: 1.6;
     font-size: 14px;
 }
